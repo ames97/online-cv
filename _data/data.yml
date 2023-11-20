@@ -59,7 +59,7 @@ sidebar:
           level: Native
 
         - idiom: Spanish
-          level: Intermediate
+          level: Conversational
 
         
 education:
@@ -81,24 +81,22 @@ experiences:
         time: May 2022 - Present
         company: Business Data Partners, Manchester
         details: |
-            - Led the data transformation for a major bank's customer outreach campaign, efficiently integrating customer data from various sources on a tight 
-             schedule, facilitating the return of safety deposit items to customers after closure of the service
-            - Constructed an interactive dashboard in Tableau to allow senior stakeholders to track the real-time repatriation status of safety deposit items 
-            across all mailing tranches
-            - Leveraged data sourcing techniques in SAS and SQL to identify customers with incorrect banking products and to measure the success of savings initiatives
-            - Identified opportunities for cross-selling and introducing new products to retail banking customers by employing K-means clustering techniques in Python to create
-            segmentation models
+            - Led the data integration for a key NatWest customer outreach initiative, effectively transforming data from multiple sources to ensure timely repatriation 
+            of safety deposit items after service discontinuation
+            - Subsequently constructed and maintained a Tableau dashboard to enable detailed monitoring and analysis of campaign progress across all tranches
+            - Employed SAS and SQL for data sourcing to identify customers with mismatched banking products and to evaluate the effectiveness of savings initiatives
+            - Utilised K-means clustering in Python to develop segmentation models, identifying opportunities for introducing new products to retail banking customers
     
       - role: Higher Statistical Officer
         time: Sep 2020 - May 2022
         company: HM Revenue & Customs, Manchester
         details: |
-            - Developed the Self-Employed Income Support Scheme's error and fraud metrics during COVID by consolidating real-time 
-            data from multiple teams and using historical references. This data was later used to guide the Chancellor's decisions on grant extensions.
-            - Led the development and execution of large-scale customer test and learn trials, using A/B 
-            testing and time series analysis to successfully measure the impact of outreach campaigns on reducing tax fraud
-            - Presented and disseminated analytical results to senior leadership boards, gaining approval to score
-                compliance yield claims of up to £67 million
+            - Developed the error and fraud estimates for the Self-Employed Income Support Scheme during COVID, providing critical data 
+            that informed the Chancellor and other policymakers in deciding on grant extension options
+            - Directed the development and implementation of large-scale customer compliance trials, employing statistical techniques like A/B 
+            testing and regression analysis to assess their impact on reducing tax fraud 
+            - Successfully presented and disseminated analytical findings to senior leadership boards, securing approval for scoring compliance yield 
+            claims valued at up to £67 million.
             - Developed and led upskilling initiatives on statistical evaluation techniques for senior stakeholders across
                 the directorate
             - Promoted to Higher Statistical Officer 2 in December 2021
@@ -108,7 +106,7 @@ experiences:
         company: Moody's Analytics, Manchester
         details: |
          -  Promoted to a management role where I led a team of five in the development of
-            a cross-border intellectual property transactions database
+            a new cross-border intellectual property transactions database
           - Drafted routine technical proposals to address inefficiencies in data input processes
           - Successfully recruited and trained two new members to support the needs of a growing team
      
@@ -119,7 +117,7 @@ experiences:
             - Collaborated in the management of the Intellectual Property team and contributed to the development of 
             a patent sale database
             - Organised and led team meetings, while supervising the performance of individual team
-                members
+            members
       - role: Data Specialist
         time: Aug 2018 - Mar 2019
         company: Moody's Analytics, Manchester
