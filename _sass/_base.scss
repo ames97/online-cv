@@ -65,7 +65,7 @@ p {
     margin-bottom: 10px;
   }
   .tagline {
-    color: $theme-color;
+    color: $text-color;
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
@@ -121,20 +121,20 @@ p {
       }
     }
     .meta {
-      color: $theme-color;
+      color: $text-color;
       font-weight: 500;
       margin-bottom: 0px;
       margin-top: 0;
     }
     .time {
-      color: $theme-color;
+      color: $text-color;
       font-weight: 500;
       margin-bottom: 0px;
     }
   }
   .languages-container {
     .lang-desc {
-      color: $theme-color;
+      color: $text-color;
     }
   }
 
