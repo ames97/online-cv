@@ -19,10 +19,10 @@ h6 {
 }
 
 a {
-  color: $text-color-secondary;
+  color: $theme-colo;
   &:hover {
     text-decoration: underline;
-    color: $text-color-secondary;
+    color: $theme-colo;
   }
   &:focus {
     text-decoration: none;
