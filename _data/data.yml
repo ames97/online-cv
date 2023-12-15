@@ -8,10 +8,11 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-
+    name: Hanna Ames
  
     # Sidebar links
-
+    email: ames.hanna@gmail.com
+    phone: 07494 990030
     location: London, UK
  
       
@@ -20,6 +21,7 @@ sidebar:
       title: Skills
       info:
         - item: SQL
+        - item: Python
         - item: SAS
         - item: Tableau
         - item: Azure 
