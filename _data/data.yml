@@ -21,14 +21,14 @@ sidebar:
       title: Skills
       info:
         - item: SQL
-        - item: Python
         - item: SAS
+        - item: Python
         - item: Tableau
         - item: Azure 
-        - item: Excel
         - item: Git
+        - item: Statistical Analysis 
+        - item: Stakeholder Management 
  
-        
       title2: Certifications
       info2:
 
